@@ -1,6 +1,6 @@
 👋 𝐇𝐈! 𝐈'𝐌 𝐀𝐋𝐅𝐑𝐄𝐃𝐎 
 
-• A passionate 3rd-year Computer Engineering student with a flair for design and development.
+• A passionate 4th-year Computer Engineering student with a flair for design and development.
 
 • I’m interested in creating captivating designs for websites, applications, and software projects. Currently, I'm exploring the creative possibilities with Figma. 🎨
 
