@@ -4,7 +4,7 @@
 
 • I’m interested in creating captivating designs for websites, applications, and software projects. Currently, I'm exploring the creative possibilities with Figma. 🎨
 
-• Currently in the process of expanding my skills, with a focus on C++, Java, and Python. 👨🏽‍💻
+• Currently in the process of expanding my skills, with a focus on HTML, CSS, Javascript, and Git. 👨🏽‍💻
 
 • Open to collaborating on exciting projects that involve a mix of design and a little bit of coding. 👾
 
